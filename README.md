@@ -29,16 +29,6 @@ The project follows API testing best practices by organizing requests into reusa
 
 ---
 
-## API Under Test
-
-**Base URL**
-
-```
-https://api.trello.com/1
-```
-
----
-
 ## Features
 
 * Create Board
